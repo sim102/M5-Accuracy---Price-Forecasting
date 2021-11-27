@@ -3,7 +3,8 @@
 
 ## Introduction
 
-In this project, we will predict the unit sales of various products sold in Walmart. We are provided with five datasets, which is explained in https://www.kaggle.com/c/m5-forecasting-accuracy/data.
+In this project, we will predict the unit sales of various products sold in Walmart.
+We are provided with five datasets, which is explained in https://www.kaggle.com/c/m5-forecasting-accuracy/data.
 There are 10 stores (four in California, three in Texas and three in Wisconsin), 3 item categories (Hobbies, Household and Foods) and finally, 7 deparments (two for Hobbies, two for Household and three for Foods).
 
 ## Methods
