@@ -23,6 +23,6 @@ Part 1 ~ 3 were committed by Kihyun and the remaining parts were committed by ot
 
 ## Things to improve
 
-We used Validation dataset for visualization and Calendar and Price dataset for the forecasting. 
+We used Validation dataset for visualization and Calendar and Price dataset for forecasting. 
 
-We could possibly include validation data for learning to improve the model.
+We could possibly include validation data for learning to improve the model although Calendar and Price data were sufficient to accurately forecast the price.
