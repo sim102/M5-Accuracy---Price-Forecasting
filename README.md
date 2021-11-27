@@ -20,3 +20,9 @@ The following steps are going to be taken:
 5. Create a submission file.
 
 Part 1 ~ 3 were committed by Kihyun and the remaining parts were committed by others.
+
+## Things to improve
+
+We used Validation dataset for visualization and Calendar and Price dataset for the forecasting. 
+
+We could possibly include validation data for learning to improve the model.
