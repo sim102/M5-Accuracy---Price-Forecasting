@@ -5,7 +5,7 @@
 
 In this project, we will predict the unit sales of various products sold in Walmart.
 
-We are provided with five datasets, which is explained in https://www.kaggle.com/c/m5-forecasting-accuracy/data.
+We are provided with four datasets, Evaluation, Validation, Calendar, and Price, which are explained in https://www.kaggle.com/c/m5-forecasting-accuracy/data.
 
 There are 10 stores (four in California, three in Texas and three in Wisconsin), 3 item categories (Hobbies, Household and Foods) and finally, 7 deparments (two for Hobbies, two for Household and three for Foods).
 
@@ -25,4 +25,4 @@ Part 1 ~ 3 were committed by Kihyun and the remaining parts were committed by ot
 
 We used Validation dataset for visualization and Calendar and Price dataset for forecasting. 
 
-We could possibly include validation data for learning to improve the model although Calendar and Price data were sufficient to accurately forecast the price.
+We could possibly include Evaluation data for learning to improve the model although Calendar and Price data were sufficient to accurately forecast the price.
